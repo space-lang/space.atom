@@ -15,4 +15,4 @@ _(Coming soon)_
 _(Nothing yet)_
 
 ## License
-Copyright (c) 2021 . Licensed under the MIT license.
+Copyright (c) 2021 . Licensed under the GNU GPLv3 license.
