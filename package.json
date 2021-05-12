@@ -1,0 +1,12 @@
+{
+  "name": "space",
+  "main": "./lib/space",
+  "version": "0.0.0",
+  "description": "The Official Atom Plugin for the Space Programming Language",
+  "license": "MIT",
+  "private": true,
+  "repository": "https://github.com/space-lang/space",
+  "engines": {
+    "atom": ">0.61.0"
+  }
+}
